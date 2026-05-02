@@ -1,0 +1,11 @@
+{
+  "name": "AquaScan Proto",
+  "description": "Conceptual mobile prototype for water quality analysis using smartphone optics and Beer-Lambert law simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Processing",
+    "Scientific Simulation"
+  ]
+}
